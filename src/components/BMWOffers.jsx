@@ -6,22 +6,22 @@ const offers = [
   {
     title: "BMW 3 Series",
     description: "Get up to ₹5 Lakh cashback on select models.",
-    image: "/carimg/BMW 3 Series.jpg",
+    image: "/BMW/carimg/BMW 3 Series.jpg",
   },
   {
     title: "BMW X5",
     description: "Special lease offers starting at ₹1.2 Lakh/month.",
-    image: "/carimg/BMW X5.jpg",
+    image: "/BMW/carimg/BMW X5.jpg",
   },
   {
     title: "BMW iX",
     description: "Electric mobility with attractive finance options.",
-    image: "/carimg/BMW iX.jpg",
+    image: "/BMW/carimg/BMW iX.jpg",
   },
   {
     title: "BMW M4",
     description: "Experience pure performance with exclusive discounts.",
-    image: "/carimg/BMW M4 Competition.jpg",
+    image: "/BMW/carimg/BMW M4 Competition.jpg",
   },
 ];
 

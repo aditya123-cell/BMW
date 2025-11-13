@@ -6,19 +6,19 @@ const aboutSections = [
     title: "Our Legacy",
     content:
       "For over a century, BMW has been a symbol of automotive excellence. Founded in 1916, BMW has consistently pushed the boundaries of performance and design. From the iconic BMW 328 to the modern-day 7 Series, each vehicle embodies precision engineering, elegance, and a passion for driving. Our commitment to innovation, quality, and sustainability continues to define the ultimate driving experience for generations of enthusiasts around the world.",
-    image: "/image/l.jpg",
+    image: "/BMW/BMW/image/l.jpg",
   },
   {
     title: "Innovation & Technology",
     content:
       "BMW leads the industry in automotive innovation, integrating cutting-edge technologies into every vehicle. From intelligent driver assistance systems and AI-powered navigation to sustainable electric mobility with the BMW i series, we redefine what driving means in the modern era. Safety, efficiency, and comfort are enhanced through advanced engineering, ensuring that every journey is not only exhilarating but also intelligently designed.",
-    image: "/image/i.jpg",
+    image: "/BMW/image/i.jpg",
   },
   {
     title: "Experience Driving",
     content:
       "Every BMW is meticulously crafted to deliver an unforgettable driving experience. With dynamic handling, responsive engines, and perfectly balanced chassis, every corner becomes a thrill. The interior blends luxury and technology seamlessly, offering comfort, connectivity, and an intuitive interface. From the roar of the engine to the precise steering, every detail is designed to connect driver and machine in perfect harmony, delivering pure driving pleasure.",
-    image: "/image/d.jpg",
+    image: "/BMW/image/d.jpg",
   },
 ];
 
