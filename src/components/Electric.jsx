@@ -4,10 +4,10 @@ import ElectricFooter from "./ElectricFooter"; // ⚡ Footer import
 
 const Electric = () => {
   const benefits = [
-    { title: "Zero Emission, 100% Performance", video: "/video/e1.mp4" },
-    { title: "Smooth, Silent and Effortless Drive", video: "/video/e4.mp4" },
-    { title: "Instant Torque for Pure Driving Pleasure", video: "/video/e3.mp4" },
-    { title: "Charging the Future — Efficient and Intelligent", video: "/video/e.2.mp4" },
+    { title: "Zero Emission, 100% Performance", video: "/BMW/video/e1.mp4" },
+    { title: "Smooth, Silent and Effortless Drive", video: "/BMW/video/e4.mp4" },
+    { title: "Instant Torque for Pure Driving Pleasure", video: "//BMWvideo/e3.mp4" },
+    { title: "Charging the Future — Efficient and Intelligent", video: "/BMW/video/e.2.mp4" },
   ];
 
   return (

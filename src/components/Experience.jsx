@@ -6,25 +6,25 @@ const videos = [
     title: "The Essence of Luxury",
     detail:
       "Step inside a world crafted with perfection — where elegance and innovation merge effortlessly.",
-    src: "/video/luxury.mp4",
+    src: "/BMW/video/luxury.mp4",
   },
   {
     title: "Unleash the Power Within",
     detail:
       "Feel the raw strength that defines every BMW engine — precision tuned for pure adrenaline.",
-    src: "/video/power.mp4",
+    src: "/BMW/video/power.mp4",
   },
   {
     title: "Engineered for Excellence",
     detail:
       "Dynamic handling, superior balance — experience performance that adapts to your every move.",
-    src: "/video/excellence.mp4",
+    src: "/BMW/video/excellence.mp4",
   },
   {
     title: "Driven by Innovation",
     detail:
       "Intelligence meets emotion. Technology that anticipates your every desire.",
-    src: "video/innovation.mp4",
+    src: "/BMW/video/innovation.mp4",
   },
 ];
 

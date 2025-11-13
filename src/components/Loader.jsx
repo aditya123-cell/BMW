@@ -29,7 +29,7 @@ const Loader = () => {
             <div className="absolute inset-0 pointer-events-none bg-[radial-gradient(circle_at_center,rgba(0,0,0,0)_60%,rgba(0,0,0,0.8)_100%)] z-10" />
 
             <motion.video
-              src="/video/loding.mp4"
+              src="/BMW/video/loding.mp4"
               autoPlay
               loop
               muted

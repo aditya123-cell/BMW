@@ -4,7 +4,7 @@ const Background = () => {
   return (
        <div className='h-full w-full overflow-hidden object-cover '>
         
-        <video className='absolute top-0 left-0 w-full h-full object-cover  z-[-1]' src="/video/video1.mp4" autoPlay loop muted></video>
+        <video className='absolute top-0 left-0 w-full h-full object-cover  z-[-1]' src="/BMW/video/video1.mp4" autoPlay loop muted></video>
         <div className='flex flex-col h-[400px] w-[700px] bg-transparent absolute top-[40%] left-[1%] gap-2 p-10 '>
 
             <h1 className='text-7xl text-white font-bold ' >wellcome to BMW world !!!</h1>
